@@ -2,7 +2,7 @@
 
 A production-grade analytics dashboard built with **Next.js 14**, **FastAPI**, **PostgreSQL**, and **Recharts**. Designed as a full-stack portfolio project demonstrating real-world architecture, clean component design, and API integration.
 
-![NovaDash Preview](./preview.png)
+![NovaDash Preview](./novadash/public/preview.png)
 
 ---
 
@@ -161,7 +161,7 @@ pytest tests/ -v
 ## Author
 
 **João Dev** — Full Stack Developer  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/in/your-profile) · [Upwork](https://upwork.com/freelancers/your-profile)
+[GitHub](https://github.com/joaooln) · [LinkedIn](https://linkedin.com/in/joaooln) · [Upwork](https://upwork.com/freelancers/joaooln)
 
 ---
 
